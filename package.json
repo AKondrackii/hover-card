@@ -1,0 +1,27 @@
+{
+  "name": "hovercard",
+  "version": "1.0.1",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrimaryWebRU/hover-card.git"
+  },
+  "keywords": [
+    "CSS3",
+    "card",
+    "hovercard"
+  ],
+  "author": "PrimaryWebRU",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrimaryWebRU/hover-card/issues"
+  },
+  "homepage": "https://github.com/PrimaryWebRU/hover-card#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
