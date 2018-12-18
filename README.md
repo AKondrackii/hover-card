@@ -1,6 +1,5 @@
 # Hover Card
-`
-<div class="hover-card">
+`<div class="hover-card">
   <div class="img-block">
     <img src="YOU-IMAGE" alt="">
   </div>
@@ -15,5 +14,4 @@
       <i class="fas fa-arrow-right"></i>
     </a>
   </div>
-</div>
-`
+</div>`
